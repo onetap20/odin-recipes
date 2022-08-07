@@ -1,0 +1,72 @@
+.title {
+    font-size: 100px;
+    text-align: center;
+    color: purple;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+}
+
+.meal {
+    text-align: center;
+    color:indigo;
+    font-size: 64px;
+}
+
+.meal-item {
+    text-align: center;
+    color:chartreuse;
+    font-size: 30px;
+
+}
+
+.resize-recipes {
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title1 {
+    font-size: 75px;
+    text-align: center;
+    color: purple;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+    background-color:darkkhaki;
+}
+
+.align {
+    text-align: center;
+}
+
+.header {
+
+}
+
+.description {
+    font-size: 30px;
+    color: purple;
+}
+
+ul {
+    list-style: none;
+    padding-left:0;
+}
+
+.textcolor{
+    color:purple;
+}
+
+body {
+    background-color:burlywood;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:rebeccapurple;
+}
+

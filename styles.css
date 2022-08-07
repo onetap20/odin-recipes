@@ -52,6 +52,7 @@
 ul {
     list-style: none;
     padding-left:0;
+    padding-right:0;
 }
 
 .textcolor{
@@ -70,3 +71,7 @@ a:visited {
     color:rebeccapurple;
 }
 
+.home-button {
+    text-align: center;
+    color:indigo;
+}
